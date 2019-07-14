@@ -1,5 +1,5 @@
 # Running-SQL-in-Jupyter-Notebook
-One of the skills which are necessary to be a good data scientist is using SQL. SQL is the standard language for communicating with database systems (popular, used everywhere and so many companies use it ). Data Scientist has to be able to retrieve data, create their own table or test environment, etc. 
+One of the skills which are necessary to be a good data scientist is using SQL. SQL is the standard language for communicating with database systems (popular, used everywhere and so many companies use it ). Data Scientist has to be able to retrieve data, create their own table or test environment, etc. <br>
 In this notebook, we will work on chinook database (includes tables for artists, albums, media tracks, invoices ,and customers).
 The outline is as follows:
 * Chinook database Description
