@@ -18,5 +18,5 @@ The outline is as follows:
   * Having
   * Joint (Inner and Outer)
   <br>
-  [See NoteBook](https://github.com/MOAMSA/Running-SQL-in-Jupyter-Notebook/blob/master/ChinookSQL.ipynb)
+[See NoteBook](https://github.com/MOAMSA/Running-SQL-in-Jupyter-Notebook/blob/master/ChinookSQL.ipynb)
   
