@@ -14,7 +14,7 @@ The outline is as follows:
   * Like
   * Order by
   * Group by
-  *  aggregate function
+  * Aggregate Functions
   * Having
   * Joint (Inner and Outer)
   <br>
