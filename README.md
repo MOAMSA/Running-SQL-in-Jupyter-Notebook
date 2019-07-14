@@ -17,5 +17,6 @@ The outline is as follows:
   *  aggregate function
   * Having
   * Joint (Inner and Outer)
+  <br>
   [See NoteBook](https://github.com/MOAMSA/Running-SQL-in-Jupyter-Notebook/blob/master/ChinookSQL.ipynb)
   
