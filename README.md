@@ -1,5 +1,6 @@
 # Running-SQL-in-Jupyter-Notebook
 <img src="https://github.com/MOAMSA/Running-SQL-in-Jupyter-Notebook/blob/master/Figures/NotebookSQLite.PNG" height="200" width="400">
+<br>
 One of the skills which are necessary to be a good data scientist is using SQL. SQL is the standard language for communicating with database systems (popular, used everywhere and so many companies use it ). Data Scientist has to be able to retrieve data, create their own table or test environment, etc. <br>
 In this notebook, we will work on chinook database (includes tables for artists, albums, media tracks, invoices ,and customers).
 The outline is as follows:
@@ -18,6 +19,7 @@ The outline is as follows:
   * Aggregate Functions
   * Having
   * Joint (Inner and Outer)
-  <br>
+  
+<br>
 [See NoteBook](https://github.com/MOAMSA/Running-SQL-in-Jupyter-Notebook/blob/master/ChinookSQL.ipynb)
   
